@@ -4,6 +4,7 @@ Trabalho final de análise de algoritmos
 # Integrantes
 
 Douglas Gomes de Paula (11621BCC013)
+
 Vinicius Guardieiro Sousa (11811BCC008)
 
 # Introdução
